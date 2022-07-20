@@ -1,4 +1,4 @@
-package com.github.gabrielburich.springdatajpastudy;
+package com.github.gabrielburich.springdatajpastudy.controller;
 
 import com.github.gabrielburich.springdatajpastudy.domain.User;
 import com.github.gabrielburich.springdatajpastudy.service.UserService;
